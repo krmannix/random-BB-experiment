@@ -26,4 +26,4 @@ With $100 at start of day on 2/20/17, **.459727841** stocks were bought.
 
 | Date | | Price Open | Price Close | Change | Value of S&P Investment | | Value of Betting Investment | Bet Placed | Win / Lose | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2/20/17 | | $217.52 | N/A | N/A | $100.00 | | $100.00 | N/A | N/A | N/A |
+| 2/20/17 | | $217.52 | N/A | N/A | **$100.00** | | **$100.00** | N/A | N/A | N/A |

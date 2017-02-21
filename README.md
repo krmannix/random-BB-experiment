@@ -14,7 +14,7 @@ We'll invest $100 dollars and follow the returns over the course of 6 months. I'
 
 [Rules here.](rules.md) [Full Results here.](results.md) [S&P Portfolio Here.](https://hellomoney.co/portfolio/6c642a)
 
-| Current Status | As of 2/20/17 |
+| Current Status | As of 2/21/17 |
 | --- | --- |
 | S&P  | $100.00 |
 | Bets | $100.00 |
@@ -22,7 +22,7 @@ We'll invest $100 dollars and follow the returns over the course of 6 months. I'
 ## Results
 Values are calculated at the start of the day - the day's actions will be reflected in the value the next day.
 
-With $100 at start of day on 2/20/17, **.459727841** stocks were bought.
+With $100 invested in the [VFINX](https://personal.vanguard.com/us/funds/snapshot?FundId=0040&FundIntExt=INT) at start of day on 2/21/17, **.459727841** stocks were bought.
 
 | Date | | Price Open | Price Close | Change | Value of S&P Investment | | Value of Betting Investment | Bet Placed | Win / Lose | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -26,4 +26,4 @@ With $100 invested in the [VFINX](https://personal.vanguard.com/us/funds/snapsho
 
 | Date | | Price Open | Price Close | Change | Value of S&P Investment | | Value of Betting Investment | Bet Placed | Win / Lose | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2/20/17 | | $217.52 | N/A | N/A | **$100.00** | | **$100.00** | N/A | N/A | N/A |
+| 2/21/17 | | $217.52 | $218.83 | +$0.60 (+0.60%) | **$100.60** | | **$100.00** | [Edmonton Oilers (+125) @ Tampa Bay Lightning](https://sports.bovada.lv/hockey/nhl/edmonton-oilers-tampa-bay-lightning-201702211930) | N/A | N/A |

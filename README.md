@@ -18,6 +18,7 @@ We'll invest $100 dollars and follow the returns over the course of 6 months. I'
 | --- | --- |
 | S&P  | $100.00 |
 | Bets | $100.00 |
+ dev
 
 ## Results
 Values are calculated at the start of the day - the day's actions will be reflected in the value the next day.
@@ -26,4 +27,5 @@ With $100 invested in the [VFINX](https://personal.vanguard.com/us/funds/snapsho
 
 | Date | | Price Open | Price Close | Change | Value of S&P Investment | | Value of Betting Investment | Bet Placed | Win / Lose | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2/21/17 | | $217.52 | $218.83 | +$0.60 (+0.60%) | **$100.60** | | **$100.00** | [Edmonton Oilers (+125) @ Tampa Bay Lightning](https://sports.bovada.lv/hockey/nhl/edmonton-oilers-tampa-bay-lightning-201702211930) | N/A | N/A |
+| 2/21/17 | | $217.52 | $218.83 | +$0.60 (+0.60%) | **$100.60** | | **$90.00** | Edmonton Oilers (+125) @ Tampa Bay Lightning | L | -$10.00 (-10.0%) |
+| 2/21/17 | | $218.83 | $218.61 | -$0.22 (-0.10%) | **$100.50** | | **$90.00** | Boston Bruins (-120) @ Anaheim Ducks | N/A | N/A |

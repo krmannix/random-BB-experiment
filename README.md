@@ -31,4 +31,5 @@ With $100 invested in the [VFINX](https://personal.vanguard.com/us/funds/snapsho
 | 2/22/17 | | $218.83 | $218.61 | -$0.22 (-0.10%) | **$100.50** | | **$80.00** | Boston Bruins (-120) @ Anaheim Ducks | L | -$10.00 (-11.11%) |
 | 2/23/17 | | $218.61 | $218.73 | +$0.12 (+0.05%) | **$100.56** | | **$70.00** | New York Rangers @ Toronto Maple Leafs (-115) | L | -$10.00 (-12.5%) |
 | 2/24/17 | | $218.73 | $219.10 | +$0.37 (+0.17%) | **$100.73** | | **$60.00** | Boston Celtics (+150) @ Toronto Raptors | L | -$10.00 (-16.7%) |
-| 2/25/17 | | $219.10 | $219.10 | N/A | **$100.73** | | **$60.00** | Indiana Pacers @ Miami Heat (-175) | N/A | N/a |
+| 2/25/17 | | $219.10 | $219.10 | N/A | **$100.73** | | **$65.71** | Indiana Pacers @ Miami Heat (-175) | W | +$5.71 (+9.51%) |
+| 2/26/17 | | $219.10 | $219.10 | N/A | **$100.73** | | **$65.71** | Edmonton Oilers (+115) @ Nashville Predators | N/A | N/A |

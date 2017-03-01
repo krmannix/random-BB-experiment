@@ -33,4 +33,5 @@ With $100 invested in the [VFINX](https://personal.vanguard.com/us/funds/snapsho
 | 2/24/17 | | $218.73 | $219.10 | +$0.17 (+0.17%) | **$100.73** | | **$60.00** | Boston Celtics (+150) @ Toronto Raptors | L | -$10.00 (-16.7%) |
 | 2/25/17 | | $219.10 | $219.10 | N/A | **$100.73** | | **$65.71** | Indiana Pacers @ Miami Heat (-175) | W | +$5.71 (+9.51%) |
 | 2/26/17 | | $219.10 | $219.10 | N/A | **$100.73** | | **$55.71** | Edmonton Oilers (+115) @ Nashville Predators | L | -$10.00 (-15.21%) |
-| 2/27/17 | | $219.10 | $219.36 | +$0.12 (+0.12%) | **$100.85** | | **$55.71** | Minnesota Timberwolves @ Sacramento Kings (+155) | N/A | N/A |
+| 2/27/17 | | $219.10 | $219.36 | +$0.12 (+0.12%) | **$100.85** | | **$55.71** | Minnesota Timberwolves @ Sacramento Kings (+155) | L | -$10.00 (-17.95%) |
+| 2/28/17 | | $219.36 | $218.80 | -$0.26 (-0.26%) | **$100.59** | | **$45.71** | Utah Jazz @ Oklahoma City Thunder (EVEN) | N/A | N/A |

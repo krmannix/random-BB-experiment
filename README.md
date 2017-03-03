@@ -35,4 +35,5 @@ With $100 invested in the [VFINX](https://personal.vanguard.com/us/funds/snapsho
 | 2/26/17 | | $219.10 | $219.10 | N/A | **$100.73** | | **$55.71** | Edmonton Oilers (+115) @ Nashville Predators | L | -$10.00 (-15.21%) |
 | 2/27/17 | | $219.10 | $219.36 | +$0.12 (+0.12%) | **$100.85** | | **$45.71** | Minnesota Timberwolves @ Sacramento Kings (+155) | L | -$10.00 (-17.95%) |
 | 2/28/17 | | $219.36 | $218.80 | -$0.26 (-0.26%) | **$100.59** | | **$55.71** | Utah Jazz @ Oklahoma City Thunder (EVEN) | W | +$10.00 (+21.9%) |
-| 3/01/17 | | $218.80 | $221.83 | +$1.39 (+1.38%) | **$101.98** | | N/A | Houston Rockets @ Los Angeles Clippers (-130) | N/A | N/A |
+| 3/01/17 | | $218.80 | $221.83 | +$1.39 (+1.38%) | **$101.98** | | **$45.71** | Houston Rockets @ Los Angeles Clippers (-130) | L | -$10.00 (-17.9%) |
+| 3/02/17 | | $221.83 | $220.55 | -$0.59 (-0.58%) | **$101.39** | | N/A | Toronto Maple Leafs (+130) @ Los Angeles Kings | N/A | N/A |

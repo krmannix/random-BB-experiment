@@ -42,4 +42,5 @@ With $100 invested in the [VFINX](https://personal.vanguard.com/us/funds/snapsho
 | 3/05/17 | | $220.66 | $220.66 | N/A | **$101.44** | | **$35.71** | N/A | N/A | N/A |
 | 3/06/17 | | $220.66 | $219.94 | -$0.33 (-0.32%) | **$101.11** | | **$35.71** | N/A | N/A | N/A |
 | 3/07/17 | | $219.94 | $219.32 | -$0.28 (-0.28%) | **$100.83** | | **$25.71** | Washington Wizards @ Phoenix Suns (+185) | L | -$10.00 (-28.0%) |
-| 3/08/17 | | $219.32 | N/A | N/A | **$100.83** | | **$25.71** | Boston Celtics (+285) @ Golden State Warriors | N/A | N/A |
+| 3/08/17 | | $219.32 | $218.88 | -$0.20 (-0.20%) | **$100.63** | | **$54.21** | Boston Celtics (+285) @ Golden State Warriors | W | +$28.50 (+111.8%) |
+| 3/09/17 | | $218.88 | N/A | N/A | **$100.63** | | **$54.21** | Los Angeles Clippers (+125) @ Memphis Grizzlies | N/A | N/A |

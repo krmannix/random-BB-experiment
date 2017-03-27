@@ -59,4 +59,6 @@ With $100 invested in the [VFINX](https://personal.vanguard.com/us/funds/snapsho
 | 3/22/17 | | $216.27 | $216.69 | +$0.19 (+0.19%) | **$99.62** | | **$70.21** | N/A | N/A | N/A |
 | 3/23/17 | | $216.69 | $216.46 | -$0.11 (-0.11%) | **$99.51** | | **$73.07** | Memphis Grizzlies @ San Antonio Spurs (-350) | W | +$2.86 (+4.1%) |
 | 3/24/17 | | $216.46 | $216.28 | -$0.08 (-0.08%) | **$99.43** | | **$73.07** | N/A | N/A | N/A |
-| 3/25/17 | | $216.28 | $216.28 | N/A | **$99.43** | | **$73.07** | Chicago Blackhawks @ Florida Panthers (+115) | N/A | N/A |
+| 3/25/17 | | $216.28 | $216.28 | N/A | **$99.43** | | **$84.57** | Chicago Blackhawks @ Florida Panthers (+115) | W | +11.50 |
+| 3/26/17 | | $216.28 | $216.28 | N/A | **$99.43** | | **$84.57** | N/A | N/A | N/A |
+| 3/27/17 | | $216.28 | N/A | N/A | **$99.43** | | **$84.57** | Nashville Predators @ New York Islanders (-120) | N/A | N/A |
